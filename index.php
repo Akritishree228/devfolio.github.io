@@ -105,7 +105,7 @@
                     <div class="about-info">
                       <p><span class="title-s">Name: </span> <span>Akriti Shree</span></p>
                       <p><span class="title-s">Profile: </span> <span>Web Developer</span></p>
-                      <p><span class="title-s">Email: </span> <span>akritirathore228@gmail.com</span></p>
+                      <p><span class="title-s">Email: </span> <span>akriti228@gmail.com</span></p>
                       <p><span class="title-s">Phone: </span> <span>(617) 557-0089</span></p>
                     </div>
                   </div>
@@ -127,14 +127,29 @@
                     <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>PHP</span> <span class="pull-right">65%</span>
+                  <!-- <span>PHP</span> <span class="pull-right">65%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 45%" aria-valuenow="45" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0"
                       aria-valuemax="100"></div>
-                  </div>
+                  </div> -->
                   <span>JAVASCRIPT</span> <span class="pull-right">50%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>MySQL</span> <span class="pull-right">70%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="65" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>JQUERy</span> <span class="pull-right">75%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="60" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>JavaNetbeans</span> <span class="pull-right">75%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                 </div>
@@ -142,7 +157,7 @@
               <div class="col-md-6">
                 <div class="about-me pt-4 pt-md-0">
                   <div class="title-box-2">
-                    <h5 class="title-left">
+                    <h5 class="title-left mt-3">
                       About me
                     </h5>
                   </div>
@@ -246,7 +261,7 @@
               <span class="ico-circle"><i class="ion-ios-calendar-outline"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">01</p>
+              <p class="counter">02</p>
               <span class="counter-text">YEARS OF EXPERIENCE</span>
             </div>
           </div>
@@ -281,7 +296,7 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Student Management Software</h2>
+                    <a href="http://localhost/management/dashboard.php" class="w-title">Student Management Software</a>
                     <div class="w-more">
                       <span class="w-ctegory">Web Site</span> <!-- / <span class="w-date">18 Sep. 2018</span> -->
                     </div>
@@ -298,7 +313,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/snip2.PNG" data-lightbox="gallery-mf">
+            <a href="http://localhost/old_projects/SSB/index.php">
               <div class="work-img">
                 <img src="img/snip2.PNG" alt="" class="img-fluid">
               </div>
@@ -307,7 +322,7 @@
                   <div class="col-sm-8">
                     <h2 class="w-title">Learning Site</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Site</span> <!-- / <span class="w-date">18 Sep. 2018</span> -->
+                      <span class="w-ctegory">View Website</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -322,7 +337,8 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/snip3.PNG" data-lightbox="gallery-mf">
+            <!-- <a href="img/snip3.PNG" data-lightbox="gallery-mf"> -->
+            <a href="http://localhost/index.php" >
               <div class="work-img">
                 <img src="img/snip3.PNG" alt="" class="img-fluid">
               </div>
@@ -331,7 +347,7 @@
                   <div class="col-sm-8">
                     <h2 class="w-title">GharParDawa</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Site</span> <!-- / <span class="w-date">18 Sep. 2018</span> -->
+                      <span class="w-ctegory">View Website</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -346,16 +362,16 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/health.PNG" data-lightbox="gallery-mf">
+            <a href="http://localhost/old_projects/practise/ToDo_project/index.php" >
               <div class="work-img">
-                <img src="img/health.PNG" alt="" class="img-fluid">
+                <img src="img/12.PNG" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Health Package</h2>
+                    <h2 class="w-title">Mini Project</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Site</span> <!-- / <span class="w-date">18 Sep. 2018</span> -->
+                      <span class="w-ctegory">View Website</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
